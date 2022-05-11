@@ -19,8 +19,6 @@ legibilidad de codigo
 
 '''
 
-from zmq import EVENT_CLOSE_FAILED
-
 
 grado = int(input("¿Cuantos centigrados estamos ahora?"))
 
