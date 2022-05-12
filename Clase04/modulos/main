@@ -1,3 +1,8 @@
-import saludos
+'''import saludos
 
 saludos.saludo()
+'''
+
+from carpetas import crear_carpetas
+
+crear_carpetas('prueba carpeta', 3)
